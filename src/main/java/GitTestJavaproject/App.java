@@ -1,4 +1,4 @@
-package gitTestJavaproject;
+package GitTestJavaproject;
 
 /**
  * Hello world!
