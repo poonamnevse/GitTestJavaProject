@@ -1,4 +1,4 @@
-package GitHubDemo.GitHubDemo;
+package gitTestJavaproject;
 
 /**
  * Hello world!
